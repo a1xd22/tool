@@ -1,4 +1,4 @@
-# 🛠️ Ferramenta de Suporte com IA 🤖
+# 🛠️ Ferramenta de Suporte com by Tiago Henrique
 
 Automatiza diagnósticos e manutenção no Windows usando **PowerShell** + **Inteligência Artificial**.
 
@@ -22,7 +22,3 @@ Automatiza diagnósticos e manutenção no Windows usando **PowerShell** + **Int
 ## 📷 Interface do Menu
 ![Menu da Ferramenta](menu.png)
 
-## 🚀 Como usar
-1. Baixe o repositório:
-   ```powershell
-   git clone https://github.com/SEU_USUARIO/ferramenta-suporte-IA.git
