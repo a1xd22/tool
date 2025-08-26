@@ -1,4 +1,4 @@
-# 🛠️ Ferramenta de Suporte com by Tiago Henrique
+# 🛠️ Ferramenta de Suporte com Copilot by Tiago Henrique
 
 Automatiza diagnósticos e manutenção no Windows usando **PowerShell** + **Inteligência Artificial**.
 
